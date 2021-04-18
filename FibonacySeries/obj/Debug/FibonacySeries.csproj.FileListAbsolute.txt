@@ -1,0 +1,7 @@
+H:\2021_StudyDemo\BasicProgram\FibonacySeries\FibonacySeries\FibonacySeries\bin\Debug\FibonacySeries.exe.config
+H:\2021_StudyDemo\BasicProgram\FibonacySeries\FibonacySeries\FibonacySeries\bin\Debug\FibonacySeries.exe
+H:\2021_StudyDemo\BasicProgram\FibonacySeries\FibonacySeries\FibonacySeries\bin\Debug\FibonacySeries.pdb
+H:\2021_StudyDemo\BasicProgram\FibonacySeries\FibonacySeries\FibonacySeries\obj\Debug\FibonacySeries.csprojAssemblyReference.cache
+H:\2021_StudyDemo\BasicProgram\FibonacySeries\FibonacySeries\FibonacySeries\obj\Debug\FibonacySeries.csproj.CoreCompileInputs.cache
+H:\2021_StudyDemo\BasicProgram\FibonacySeries\FibonacySeries\FibonacySeries\obj\Debug\FibonacySeries.exe
+H:\2021_StudyDemo\BasicProgram\FibonacySeries\FibonacySeries\FibonacySeries\obj\Debug\FibonacySeries.pdb
